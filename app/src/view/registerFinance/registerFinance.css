@@ -1,0 +1,11 @@
+
+.register-Finance {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.section{
+    display: flex;
+    orientation: landscape;
+}
